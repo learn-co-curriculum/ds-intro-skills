@@ -1,4 +1,10 @@
-## Overview
+# Introduction to Data Science
+
+## SWBATS:
+Descrice the data science process with a clear understanding of stages involved.
+Understand different roles within data analytics domain with required skillset
+
+### Overview
 
 This lesson provides an introduction to the data science process and challenges generally faced by data scientists at different stages of this process. Students will also be introduced to different roles within data science domain with a focus on similarities and differences between these roles. This would allow students to better position themselves for a role that suits their skills and aspirations. 
 
@@ -6,7 +12,7 @@ This lesson provides an introduction to the data science process and challenges 
 
 
 
-## The Data Science Process (20-25 min, explanations = 15 min, exercise = 5-10 min)
+### The Data Science Process (20-25 min, explanations = 15 min, exercise = 5-10 min)
 
 A common question asked by most aspiring data scientists is "How to do data science ?" or "How do I get started with data science skills". Following steps describe different stages of the data science process as shown by Sudeep Agarwal [Understanding Data Science Life Cycle](http://sudeep.co/data-science/Understanding-the-Data-Science-Lifecycle)
 
@@ -138,6 +144,7 @@ A business analyst is not required to have in-depth knowledge of analytics relat
 > Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. Share your ideas with the instructor. 
 
 
+### Summary
 
-
+In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing daily data analysis tasks. We also looked at different roles within the data science domain and how these compare and contrast with each other. This would give you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills.
 
