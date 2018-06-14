@@ -1,8 +1,8 @@
 # Introduction to Data Science
 
-## SWBATS:
-Descrice the data science process with a clear understanding of stages involved.
-Understand different roles within data analytics domain with required skillset
+### SWBATS:
+* Descrice the data science process with a clear understanding of stages involved.
+* Understand different roles within data analytics domain with required skillset
 
 ### Overview
 
